@@ -1,0 +1,14 @@
+Hittler/Paraco:
+    - Uribito
+Paracos:
+    - Paloma Valencia
+    - Zapateiro
+    - Cabal
+Liberales:
+    - Jaime Garzon
+    - Mokus
+    - Francia
+    - Gaitan
+    - Héctor Abad Gómez
+    - Guillermo Cano
+    -
